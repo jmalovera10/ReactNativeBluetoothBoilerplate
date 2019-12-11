@@ -1,1 +1,1 @@
-# ReactNativeBluetoothBoilerplate
+# React Native Bluetooth Boilerplate
